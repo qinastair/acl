@@ -1313,7 +1313,6 @@
 (^|\.)hivedata\.cc$
 
 # 运营商广告IP段
-acfun.cn
 0.0.0.0
 down.qq.com
 clientreport.gfm.qq.com
