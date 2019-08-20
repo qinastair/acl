@@ -1579,20 +1579,11 @@ intl.cloud.mtp.tencent.com
 #**********************************************************************
 [bypass_list]
 # 直连列表
-oth.eve.mdt.qq.com:8080
-183.232.123.169:8080
-121.51.154.30:8080
-119.28.229.113:18081
-cloud.gsdk.proximabeta.com:18081
+http://oth.eve.mdt.qq.com:8080/analytics/upload
+http://cloud.gsdk.proximabeta.com:18081/?cmdid=1&appid=1106545419
 
 # CN域名直连
 # ^.*\.cn$
-(^|\.)oth.eve.mdt.qq\.com$
-(^|\.)oth\.eve\.mdt\.qq\.com$
-(^|\.)oth\.\.\.\.com$
-(^|\.)cloud.gsdk.proximabeta\.com$
-(^|\.)cloud\.gsdk\.proximabeta\.com$
-(^|\.)cloud\.\.\.com$
 (^|\.)edu\.cn$
 (^|\.)gov\.cn$
 (^|\.)net\.cn$
