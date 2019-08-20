@@ -1580,6 +1580,8 @@ intl.cloud.mtp.tencent.com
 [bypass_list]
 # 直连列表
 
+45.40.220.55
+
 # CN域名直连
 # ^.*\.cn$
 (^|\.)edu\.cn$
