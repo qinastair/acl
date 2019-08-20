@@ -1579,15 +1579,11 @@ intl.cloud.mtp.tencent.com
 #**********************************************************************
 [bypass_list]
 # 直连列表
-45.40.220.55
-183.232.123.169
-121.51.154.30
-119.28.229.113
 
 # CN域名直连
 # ^.*\.cn$
-oth.eve.mdt.qq.com:8080
-cloud.gsdk.proximabeta.com:18081
+(^|\.)oth.eve.mdt.qq\.com$
+(^|\.)cloud.gsdk.proximabeta\.com$
 (^|\.)edu\.cn$
 (^|\.)gov\.cn$
 (^|\.)net\.cn$
