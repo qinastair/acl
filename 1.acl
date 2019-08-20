@@ -1586,7 +1586,8 @@ intl.cloud.mtp.tencent.com
 
 # CN域名直连
 # ^.*\.cn$
-(^|\.)oth.eve.mdt.qq\.com$
+oth.eve.mdt.qq.com:8080
+cloud.gsdk.proximabeta.com:18081
 (^|\.)edu\.cn$
 (^|\.)gov\.cn$
 (^|\.)net\.cn$
