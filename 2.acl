@@ -1313,6 +1313,7 @@
 (^|\.)hivedata\.cc$
 
 # 运营商广告IP段
+sina.com.cn
 dl1023.tcdn.qq.com
 a1845.dscb.akamai.net
 1607604.toversea.sched.ovscdns.com
