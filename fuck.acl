@@ -1,6 +1,7 @@
+[proxy_all]
+# 默认代理
+
 [outbound_block_list]
-graph.facebook.com
-baidu.com
 tencentgames.helpshift.com
 dl1023.tcdn.qq.com
 a1845.dscb.akamai.net
@@ -46,7 +47,6 @@ alt5.mobile-gtalk.l.google.com
 qos.hk.gcloudcs.com
 cs.mbgame.gamesafe.qq.com
 api4.clickwifi.net
-iot.vivo.com.cn
 oth.update.mdt.qq.com
 alt1.mobile-gtalk.l.google.com
 hk.voice.gcloudcs.com
