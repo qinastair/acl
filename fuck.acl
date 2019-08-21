@@ -1,7 +1,7 @@
 [proxy_all]
-# 默认代理
 
 [outbound_block_list]
+
 tencentgames.helpshift.com
 dl1023.tcdn.qq.com
 a1845.dscb.akamai.net
