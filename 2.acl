@@ -23,9 +23,7 @@
 
 #**********************************************************************
 [bypass_list]
-qq.com
-proximabeta.com
-oth.eve.mdt.qq.com
-cloud.gsdk.proximabeta.com
+http://oth.eve.mdt.qq.com:8080/analytics/upload
+http://cloud.gsdk.proximabeta.com:18081/?cmdid=1&appid=1106545419
 
 #**********************************************************************
