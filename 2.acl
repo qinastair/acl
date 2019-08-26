@@ -30,7 +30,7 @@ http://oth.eve.mdt.qq.com:8080/analytics/upload
 #**********************************************************************
 
 [outbound_block_list]
-
+gameguardian.net
 tcqq.com
 tc.qq.com
 x2tcqq.com
